@@ -1,9 +1,9 @@
 {
 	"version": 3,
-	"file": "style.css",
+	"file": "../../css/style.css",
 	"sources": [
 		"../../../src/assets/sass/style.scss"
 	],
 	"names": [],
-	"mappings": "AAAA,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,KAAK;CACf"
+	"mappings": "AAAA,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,KAAK;CASf;;AAVD,AAGE,IAHE,CAGF,EAAE,CAAC;EACD,KAAK,EAAE,KAAK;CACb;;AALH,AAOE,IAPE,CAOF,CAAC,CAAC;EACA,SAAS,EAAE,IAAI;CAChB"
 }
