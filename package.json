@@ -23,7 +23,8 @@
     "watch/css": "watch 'npm run css' ./src/assets/sass",
     "watch/js": "watch 'npm run js' ./src/assets/js",
     "watch/images": "onchange 'src/assets/images' -e '**/*.DS_Store' -- npm run images",
-    "watch": "npm-run-all -p watch/*"
+    "watch": "npm-run-all -p watch/*",
+    "server": "php -S localhost:8000 -t ./dist"
   },
   "license": "MIT",
   "devDependencies": {
